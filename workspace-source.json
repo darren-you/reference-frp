@@ -1,0 +1,7 @@
+{
+  "upstream_repository": "https://github.com/fatedier/frp",
+  "upstream_commit": "4a23aa181c1d7e28eecaa8216024ed753b9d27c8",
+  "purpose": "工作区只读参考；移除 GitHub Actions 及其专属发布、生成和更新接线",
+  "source_owner": "darren-space",
+  "source_issue": "https://github.com/darren-you/darren-space/issues/64"
+}
